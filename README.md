@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Slimani-CE/rock-paper-scissors-webapp)
+- Live Site URL: [Add live site URL here](https://slimani-ce.github.io/rock-paper-scissors-webapp)
 
 ## My process
 
